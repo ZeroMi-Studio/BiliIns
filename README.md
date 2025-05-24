@@ -40,7 +40,7 @@ BiliIns（Bilibili Data Insight）是一个免费开源的哔哩哔哩创作者�
 
 ```bash
 # 克隆项目
-git clone https://github.com/yourname/BiliIns.git
+git clone https://github.com/ZeroMi-Studio/BiliIns.git
 
 # 安装依赖
 pip install -r requirements.txt
@@ -73,11 +73,13 @@ pip install -r requirements.txt
 - 完善文档
 - 分享使用案例
 
-请先阅读[贡献指南](CONTRIBUTING.md)
 
 ## 📄 开源协议
 
 本项目遵循 [BiliIns开源及商业使用协议](LICENSE.md)
+
+#### 简单概括：您可以随意的二改使用，但是需要标注“基于 BiliIns 二次开发”字眼，同时商业使用需授权
+
 
 ## 🌐 相关链接
 
@@ -88,5 +90,4 @@ pip install -r requirements.txt
 
 ---
 
-> 📧 联系邮箱：contact@biliins.example.com  
-> 🐦 官方推特：[@BiliIns](https://twitter.com/BiliIns)
+> 📧 联系邮箱：[contact@zeromi.cn](mailto:contact@zeromi.cn)
