@@ -38,12 +38,13 @@ BiliIns（Bilibili Data Insight）是一个免费开源的哔哩哔哩创作者�
 
 ### 快速开始
 
+```bash
 #### 克隆项目
-`git clone https://github.com/yourname/BiliIns.git`
+git clone https://github.com/yourname/BiliIns.git
 
 #### 安装依赖
-```pip install -r requirements.txt```
-
+pip install -r requirements.txt
+```
 
 #### 修改配置文件setting.json
 
