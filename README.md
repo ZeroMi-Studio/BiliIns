@@ -35,15 +35,16 @@ BiliIns（Bilibili Data Insight）是一个免费开源的哔哩哔哩创作者�
 
 ### 环境要求
 - Python 3.8+
+- 会思考的脑子
+- 勤劳的双手
 
 ### 快速开始
+
+详细请阅读[BiliIns使用文档](https://github.com/ZeroMi-Studio/BiliIns/wiki)
 
 ```bash
 # 克隆项目
 git clone https://github.com/ZeroMi-Studio/BiliIns.git
-
-# 安装依赖
-pip install -r requirements.txt
 
 # 修改配置文件setting.json
 
@@ -83,10 +84,8 @@ pip install -r requirements.txt
 
 ## 🌐 相关链接
 
-- [项目主页](https://biliins.example.com)
-- [API文档](https://docs.biliins.example.com)
-- [开发路线图](ROADMAP.md)
-- [常见问题](FAQ.md)
+- [使用文档](https://github.com/ZeroMi-Studio/BiliIns/wiki)
+- [常见问题](https://github.com/ZeroMi-Studio/BiliIns/Q&A)
 
 ---
 
