@@ -35,15 +35,17 @@ Helping creators gain comprehensive content insights to optimize their strategie
 
 ### Requirements
 - Python 3.8+
+- A thinking brain
+- Industrious hands
 
 ### Quick Start
+
+For details, please refer to [User Documentation](https://github.com/ZeroMi-Studio/BiliIns/wiki)
 
 ```bash
 # Clone repository
 git clone https://github.com/ZeroMi-Studio/BiliIns.git
 
-# Install dependencies
-pip install -r requirements.txt
 
 # Modify setting.json config file
 
