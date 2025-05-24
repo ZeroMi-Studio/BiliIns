@@ -1,4 +1,3 @@
-# BiliIns
-Bilibili稿件综合数据分析
-https://www.123684.com/s/1PFVVv-iyEKd
-1
+# BiliIns - 稿件综合数据分析 
+
+> BiliIns（Bilibili Data Insight），是一个免费开源的哔哩哔哩创作者内容数据分析平台，通过将创作者内容数据进行计算、统计、对比等，并结合AI模型进行评论区数据分析，给创作者更完整、全面的内容数据分析
