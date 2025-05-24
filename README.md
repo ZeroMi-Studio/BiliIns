@@ -1,7 +1,7 @@
 # BiliIns - 哔哩哔哩创作者数据分析平台
 
-![License](https://img.shields.io/badge/license-MIT-green)
-![Version](https://img.shields.io/badge/version-1.0.0-blue)
+![GitHub repo size](https://img.shields.io/github/repo-size/ZeroMi-Studio/BiliIns)
+![Version](https://img.shields.io/badge/version-1.1.0-blue)
 ![Python](https://img.shields.io/badge/python-3.8%2B-blue)
 
 [English](./README_EN.md) | 简体中文
@@ -29,20 +29,12 @@ BiliIns（Bilibili Data Insight）是一个免费开源的哔哩哔哩创作者�
 - 评论情感极性分析
 - 高频关键词提取
 - 弹幕内容聚类
-- 优质评论自动识别
-
-### 📈 创作建议
-- 最佳发布时间预测
-- 标签优化建议
-- 内容类型推荐
-- 竞品对比分析
+- 评论风向分析
 
 ## 🛠 安装指南
 
 ### 环境要求
 - Python 3.8+
-- Redis 5.0+
-- MySQL 5.7+
 
 ### 快速开始
 ```bash
@@ -52,30 +44,27 @@ git clone https://github.com/yourname/BiliIns.git
 # 安装依赖
 pip install -r requirements.txt
 
-# 配置环境变量
-cp .env.example .env
+# 修改配置文件
+"setting.json"
 
-# 启动服务
-python app.py
+# 启动程序
+"BiliIns.exe" 或 python python/main.py
 
 
 ## 🖥 使用说明
 
-1. 登录B站账号（仅读取公开数据）
-2. 输入稿件BV号或UP主UID
-3. 查看数据分析报告
-4. 导出PDF/Excel格式报告
+1. 输入稿件BV号
+2. 查看数据分析报告
+3. 导出PDF/Excel格式报告（大饼）
 
-![示例截图](docs/screenshot.png)
 
 ## 📚 数据维度
 
 | 模块        | 指标项                     |
 |-------------|---------------------------|
 | 基础数据    | 播放量、点赞、投币、收藏   |
-| 观众分析    | 观看时长、留存率、地域分布 |
-| 互动分析    | 评论热词、弹幕密度        |
-| 收益分析    | 预估收益、单价趋势        |
+| 观众分析    | 点赞率、投币率、互动率 |
+| 互动分析    | 评论风向、评论影响        |
 
 ## 🤝 参与贡献
 
@@ -89,7 +78,7 @@ python app.py
 
 ## 📄 开源协议
 
-本项目采用 [MIT License](LICENSE)
+本项目遵循 [BiliIns开源及商业使用协议](LICENSE.md)
 
 ## 🌐 相关链接
 
