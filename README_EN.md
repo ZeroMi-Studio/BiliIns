@@ -46,7 +46,6 @@ For details, please refer to [User Documentation](https://github.com/ZeroMi-Stud
 # Clone repository
 git clone https://github.com/ZeroMi-Studio/BiliIns.git
 
-
 # Modify setting.json config file
 
 # Launch application via BiliIns.exe or python python/main.py
