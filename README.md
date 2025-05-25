@@ -87,7 +87,7 @@ git clone https://github.com/ZeroMi-Studio/BiliIns.git
 ## 🌐 相关链接
 
 - [使用文档](https://github.com/ZeroMi-Studio/BiliIns/wiki)
-- [常见问题](https://github.com/ZeroMi-Studio/BiliIns/Q&A)
+- [常见问题](https://github.com/ZeroMi-Studio/BiliIns/wiki/Q&A)
 
 ---
 
