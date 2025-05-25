@@ -4,7 +4,7 @@
 ![Version](https://img.shields.io/badge/version-1.1.0-blue)
 ![Python](https://img.shields.io/badge/python-3.8%2B-blue)
 
-[img]https://img.picui.cn/free/2025/05/25/6832b6db5d2a2.png[/img]
+![logo1_B.png](https://img.picui.cn/free/2025/05/25/6832b6db5d2a2.png)
 
 [English](./README_EN.md) | 简体中文
 
