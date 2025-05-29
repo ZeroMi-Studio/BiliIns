@@ -75,7 +75,7 @@ We welcome contributions through:
 
 ## 📄 License
 
-This project follows the [BiliIns开源及商业使用许可协议](LICENSE.md)
+This project follows the [BiliIns开源及商业使用许可协议](LICENSE.md)  **Last updated 2025年5月29日**
 
 #### Summary: You may freely modify and use the code, but must include "Developed based on BiliIns" attribution. Commercial use requires authorization.
 
