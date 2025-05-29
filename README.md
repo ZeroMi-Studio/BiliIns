@@ -79,7 +79,7 @@ git clone https://github.com/ZeroMi-Studio/BiliIns.git
 
 ## 📄 开源协议
 
-本项目遵循 [BiliIns开源及商业使用许可协议](License.md)  （**最后更新时间为：2025 年 5 月29 日）
+本项目遵循 [BiliIns开源及商业使用许可协议](License.md)  （**最后更新时间为：2025 年 5 月29 日**）
 
 #### 简单概括：您可以随意的二改使用，但是需要标注“基于 BiliIns 二次开发”字眼，同时商业使用需授权
 
