@@ -4,7 +4,7 @@ import re
 import jieba
 from collections import Counter
 
-jieba.set_dictionary('D:\Benxp\项目\BiliIns\Ver1.2.0\python\dict.txt')
+jieba.set_dictionary('.\python\dict.txt')
 
 
 def get_bvid_info(bvid):
