@@ -179,6 +179,10 @@ def get_video_info():
                 n += 1
 
             return jsonify(generate_text_deepseek(INIDATA['AI']['AIName'], text))
+        
+        elif INIDATA['AI']['type'] == 'false' or INIDATA['AI']['type'] == False :
+            log_module + f"AI功能未开启"
+            return f"AI功能未开启"
 
         else:
             log_module + f"AI类型不可用({INIDATA['AI']['type']}), 请检查配置文件 AI/type 项"
